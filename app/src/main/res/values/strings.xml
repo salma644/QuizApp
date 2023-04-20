@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_map_api_key">AIzaSyBHpG8Yt8rcGJFwakKD8fb_qsEXzCNoQo8</string>
+</resources>
